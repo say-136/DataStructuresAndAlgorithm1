@@ -1,5 +1,0 @@
-/Users/shenaoyun/Desktop/say/Main/Main/bin/Debug/Main.exe
-/Users/shenaoyun/Desktop/say/Main/Main/bin/Debug/Main.pdb
-/Users/shenaoyun/Desktop/say/Main/Main/obj/Debug/Main.csprojAssemblyReference.cache
-/Users/shenaoyun/Desktop/say/Main/Main/obj/Debug/Main.exe
-/Users/shenaoyun/Desktop/say/Main/Main/obj/Debug/Main.pdb
