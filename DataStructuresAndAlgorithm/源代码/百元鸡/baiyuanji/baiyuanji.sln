@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baiyuanji", "baiyuanji.csproj", "{893C8BFA-196E-4EEF-976D-F5189272D927}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baiyuanji", "baiyuanji\baiyuanji.csproj", "{525F3A67-B9DF-4FB7-B1B3-3FF01200A977}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|anycpu = Release|anycpu
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{893C8BFA-196E-4EEF-976D-F5189272D927}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{893C8BFA-196E-4EEF-976D-F5189272D927}.Debug|anycpu.Build.0 = Debug|anycpu
-		{893C8BFA-196E-4EEF-976D-F5189272D927}.Release|anycpu.ActiveCfg = Release|anycpu
-		{893C8BFA-196E-4EEF-976D-F5189272D927}.Release|anycpu.Build.0 = Release|anycpu
+		{525F3A67-B9DF-4FB7-B1B3-3FF01200A977}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{525F3A67-B9DF-4FB7-B1B3-3FF01200A977}.Debug|anycpu.Build.0 = Debug|anycpu
+		{525F3A67-B9DF-4FB7-B1B3-3FF01200A977}.Release|anycpu.ActiveCfg = Release|anycpu
+		{525F3A67-B9DF-4FB7-B1B3-3FF01200A977}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal

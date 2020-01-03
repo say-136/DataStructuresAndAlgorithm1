@@ -1,5 +1,0 @@
-/Users/shenaoyun/Desktop/baiyuanji/baiyuanji/bin/Debug/baiyuanji.exe
-/Users/shenaoyun/Desktop/baiyuanji/baiyuanji/bin/Debug/baiyuanji.pdb
-/Users/shenaoyun/Desktop/baiyuanji/baiyuanji/obj/Debug/baiyuanji.csprojAssemblyReference.cache
-/Users/shenaoyun/Desktop/baiyuanji/baiyuanji/obj/Debug/baiyuanji.exe
-/Users/shenaoyun/Desktop/baiyuanji/baiyuanji/obj/Debug/baiyuanji.pdb

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
-    <ProjectGuid>{893C8BFA-196E-4EEF-976D-F5189272D927}</ProjectGuid>
+    <ProjectGuid>{525F3A67-B9DF-4FB7-B1B3-3FF01200A977}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>baiyuanji</RootNamespace>
     <AssemblyName>baiyuanji</AssemblyName>
@@ -31,9 +31,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Properties\" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
