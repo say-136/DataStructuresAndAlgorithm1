@@ -1,0 +1,10 @@
+C:\Users\say13\Desktop\Age\Age\obj\Debug\netcoreapp3.1\Age.AssemblyInfoInputs.cache
+C:\Users\say13\Desktop\Age\Age\obj\Debug\netcoreapp3.1\Age.AssemblyInfo.cs
+C:\Users\say13\Desktop\Age\Age\bin\Debug\netcoreapp3.1\Age.exe
+C:\Users\say13\Desktop\Age\Age\bin\Debug\netcoreapp3.1\Age.deps.json
+C:\Users\say13\Desktop\Age\Age\bin\Debug\netcoreapp3.1\Age.runtimeconfig.json
+C:\Users\say13\Desktop\Age\Age\bin\Debug\netcoreapp3.1\Age.runtimeconfig.dev.json
+C:\Users\say13\Desktop\Age\Age\bin\Debug\netcoreapp3.1\Age.dll
+C:\Users\say13\Desktop\Age\Age\bin\Debug\netcoreapp3.1\Age.pdb
+C:\Users\say13\Desktop\Age\Age\obj\Debug\netcoreapp3.1\Age.dll
+C:\Users\say13\Desktop\Age\Age\obj\Debug\netcoreapp3.1\Age.pdb
